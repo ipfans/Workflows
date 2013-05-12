@@ -22,5 +22,11 @@ FindYYeTs v0.1
 
     yyets [关键词]
 
+YoudaoDict v0.1
+---
+有道词典在线英汉查询
 
+使用方法：
+
+    dict [英文单词]
     
